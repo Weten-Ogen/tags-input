@@ -15,8 +15,8 @@ body{
 }
 
 .wrapper{
-    width: 490px;
-    background: #fff;
+    width: 450px;
+    background: rgb(234, 234, 234);
     border-radius: 10px;
     padding: 18px 25px 20px;
 }
@@ -79,7 +79,9 @@ body{
 }
 
 .wrapper .details{
+    display: flex;
     justify-content: space-between;
+    line-height: 20px;
 }
 
 .details button{

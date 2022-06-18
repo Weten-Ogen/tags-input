@@ -1,5 +1,5 @@
 const ul = document.querySelector('ul'),
-const input = ul.querySelector('input');
+const       input = ul.querySelector('input');
 
 function createTag() {
     tags.forEach(tag =>{
